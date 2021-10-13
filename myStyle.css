@@ -1,26 +1,22 @@
 h1
 {
-	color: #240F8C;
-	font-family:"Lucinda Sans", "Times New Roman", "sans-serif";
+	color: #394994;
 }
 h2
 {
-	color: #240F8C;
-	font-family:"Lucinda", "Sans Unicode", "serif";
+	color: #394994;
 }
 
 p
 {
-	color : #3C056E;
-	font: 1.5em
+	color : #454392;
 }
 
 li
 {
-	color : #240F8C;
+	color : #352392;
 }
-
 body
 {
-	background-color: #7397C3;
+	background-color : #7692C5
 }
