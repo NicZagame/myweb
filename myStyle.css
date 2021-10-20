@@ -1,11 +1,8 @@
-h1
+h1, h2
 {
 	color: #394994;
 }
-h2
-{
-	color: #394994;
-}
+
 
 p
 {
@@ -18,5 +15,26 @@ li
 }
 body
 {
-	background-color : #7692C5
+	background-color : #7692C5;
+}
+nav
+{
+	line-height: 200%;
+	display: block;
+	background-color: black;
+}
+
+
+
+
+nav ul 
+{
+	list-style-image: url("Smol.png");
+	color: #7692C5;
+	
+}
+ul
+{
+	list-style-image: url("unnamed.png");
+	
 }
