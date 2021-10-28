@@ -1,21 +1,31 @@
-h1, h2
+h1
 {
 	color: #394994;
+	border:dotted thick #752392;
+	padding: 20px;
+	margin:15px;
+	
 }
-
+h2
+{
+	color: #394984;
+}
 
 p
 {
-	color : #454392;
+	color : #454382;
+	
 }
 
 li
 {
-	color : #352392;
+	color : #662382;
+	
 }
 body
 {
-	background-color : #7692C5;
+	background-image: url(Images/boop.gif)
+	
 }
 nav
 {
@@ -29,12 +39,41 @@ nav
 
 nav ul 
 {
-	list-style-image: url("Smol.png");
+	list-style-image: url("Images/Smol.png");
 	color: #7692C5;
 	
 }
 ul
 {
-	list-style-image: url("unnamed.png");
+	list-style-image: url("Images/unnamed.png");
+	border:dashed thick black;
 	
+	
+}
+ol
+{
+	
+}
+img
+{
+	float:left;
+	margin-right: 45px;
+	margin-bottom: 30px;
+	border:double 20px #326969;
+	
+}
+h5
+{
+	color: #196290
+	
+}
+.floaty
+{
+		float:left;
+		margin:20px;
+		border-style:none;
+}
+.text
+{
+	clear:left;
 }
